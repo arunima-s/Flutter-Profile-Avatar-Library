@@ -1,4 +1,4 @@
-library profile_avatar;
+library profile_name_avatar;
 
 import 'package:flutter/material.dart';
 

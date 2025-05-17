@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:profile_avatar/profile_avatar.dart';
+import 'package:profile_name_avatar/profile_name_avatar.dart';
 
 void main() {
   runApp(MaterialApp(

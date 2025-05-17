@@ -1,4 +1,4 @@
-name: profile_avatar
+name: profile_name_avatar
 description: A simple widget to show user initials in a circular avatar with background color.
 version: 0.0.1
 homepage: https://github.com/shyam-lal/Flutter-Profile-Avatar-Library

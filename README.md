@@ -1,4 +1,4 @@
-# Profile Avatar
+# Profile Name Avatar
 
 A lightweight Flutter widget to generate profile avatars with user initials — similar to Google or Slack. If a user doesn't have a profile image, this widget displays their initials in a colored circle.
 
@@ -14,13 +14,13 @@ Add this to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  profile_avatar: ^0.0.1
+  profile_name_avatar: ^0.0.1
 ```
 
 ## Usage
 
 ```dart
-import 'package:profile_avatar/profile_avatar.dart';
+import 'package:profile_name_avatar/profile_name_avatar.dart';
 
 ProfileAvatar(
   name: 'Sarbath Shameer',
