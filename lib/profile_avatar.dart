@@ -2,10 +2,21 @@ library profile_avatar;
 
 import 'package:flutter/material.dart';
 
+/// A widget that shows user initials in a circular avatar with background color.
+///
+/// It automatically extracts initials from the name and assigns a consistent
+/// background color unless a custom one is provided.
 class ProfileAvatar extends StatelessWidget {
+  /// Full name of the user (e.g., "Sarbath Shameer")
   final String name;
+
+  /// Radius of the circular avatar
   final double radius;
+
+  /// Optional custom text style
   final TextStyle? textStyle;
+
+  /// Optional background color. If null, a color will be generated from name hash.
   final Color? backgroundColor;
 
   const ProfileAvatar({

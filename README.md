@@ -15,3 +15,20 @@ Add this to your `pubspec.yaml`:
 ```yaml
 dependencies:
   profile_avatar: ^0.0.1
+```
+
+## Usage
+
+```dart
+import 'package:profile_avatar/profile_avatar.dart';
+
+ProfileAvatar(
+  name: 'Sarbath Shameer',
+  radius: 40,
+)
+```
+
+
+## Example
+
+![Profile Avatar Screenshot](example/lib-ss.png)
