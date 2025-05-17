@@ -31,4 +31,5 @@ ProfileAvatar(
 
 ## Example
 
-![Profile Avatar Screenshot](example/lib-ss.png)
+![Profile Avatar Screenshot](https://raw.githubusercontent.com/shyam-lal/Flutter-Profile-Avatar-Library/main/example/lib-ss.png)
+
